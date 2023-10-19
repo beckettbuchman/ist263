@@ -1,0 +1,19 @@
+body {color: #EFE8D6;}
+h1,h2,h3  {color: #63657A;}
+p, ul, li, tr, th {color:#AEB5BD ;}
+a:link {color:#63657A;}
+a:visited {color: #AEB5BD ;}
+a:hover {color: #AEB5BD ;}
+nav {background-color: #EFE8D6 ;}
+nav a{color: #63657A;}
+nav a:hover {background-color: #DDDFD2;}
+nav {margin-bottom: 30px}
+.copy {float: left;}
+.quote {float: right;}
+.row1 {display: flex; padding: 20px; background-color: #DDDFD2; border-radius: 1em;}
+.column1 {flex: 1; order: 1;}
+.column2 {flex: 6; order: 2;}
+form {color: #AEB5BD;}
+.row2 {display: flex; padding: 20px; background-color: #DDDFD2; border-radius: 1em; margin-top: 20px;}
+.column3 {flex: 2; order: 1; margin: 30px;} 
+.column4 {flex: 4; order: 2; background-position: center ;}
