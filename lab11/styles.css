@@ -1,7 +1,7 @@
 body {color: #EFE8D6;}
 h1,h2,h3  {color: #63657A;}
 p, ul, li, tr, th {color:#2b2e31 ;}
-a:link {color:#63657A;}
+a:link {color:#2b2e31;}
 a:visited {color: #2b2e31 ;}
 a:hover {color: #2b2e31 ;}
 nav {background-color: #EFE8D6 ;}
@@ -13,7 +13,7 @@ nav {margin-bottom: 30px}
 .row1 {display: flex; padding: 20px; background-color: #DDDFD2; border-radius: 1em;}
 .column1 {flex: 1; order: 1;}
 .column2 {flex: 6; order: 2;}
-form {color: #AEB5BD;}
+form {color: #2b2e31;}
 .row2 {display: flex; padding: 20px; background-color: #DDDFD2; border-radius: 1em; margin-top: 20px; flex-wrap: wrap;}
 .row2, .column3, .column4 {display:flex}
 .column3 {flex-basis: 35%; margin: 30px;} 
