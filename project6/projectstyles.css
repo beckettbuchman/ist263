@@ -23,5 +23,5 @@ main p {color: blanchedalmond;}
 .footercolumn1, .footercolumn2 {padding:30px; color: black;}
 .icon {max-width: 50px; padding:5px}
 .citations {display: flex; justify-content: space-between; margin: 10px; background-color: blanchedalmond; border: 1px solid black; font-family: Verdana, Geneva, Tahoma, sans-serif;}
-.navbut {color: white; background-color: #000000;}
+.navbut {color: white; background-color: #000000; margin:35px;}
 @media only screen and (max-width:819px) {.footerrow1 {flex-wrap: wrap;} .citations {flex-wrap: wrap;}}
