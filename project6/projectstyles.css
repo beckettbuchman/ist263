@@ -1,0 +1,27 @@
+nav a, h1, h2, h3, p, ol, li {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1 {color: white; margin: 10px;}
+header {background-color: black; margin: 0px; max-width: 100%;}
+.banner {max-width: 100%; border: 1px solid black;}
+.page1pic1 {max-width: 75%; margin: 10px auto; max-height: 50%;}
+.page1pic2 {max-width: 90%; margin: 10px auto;}
+body {background-color:cornsilk}
+.firstp {width: 75%; margin: 0 auto; background-color: black; border-radius: 1em; color:  blanchedalmond}
+.list1 {padding:5px; margin: 0 auto; width: 50%;}
+.row2 {display: flex; justify-content: space-between;}
+.column3, .column4 {flex-basis: 50%; margin: 10px; background-color: black; border-radius: 1em; color: white;}
+.header2 {text-align: center; color: blanchedalmond;}
+.column4 div, .column3 div {display: flex; justify-content: center;}
+.column3 p, .column4 p {margin: 20px;}
+.row4 {display: flex; justify-content: center;}
+.page1pic3 {max-width: 100%; margin: 10px auto}
+.end {text-align: center;}
+.lastbox{background-color: black;border-radius: 1em; margin: 10px auto; color:  blanchedalmond;}
+main p {color: blanchedalmond;}
+.skip{background-color: white; padding: 5px; border: 1px solid #000000; text-decoration: none; position: absolute; top: 10px; left: -999px;} 
+.skip:focus {left: 10px;}
+.footerrow1 {display: flex; background-color: blanchedalmond; justify-content: space-between; border: 1px solid black; font-family: Verdana, Geneva, Tahoma, sans-serif; color: black;}
+.footercolumn1, .footercolumn2 {padding:30px; color: black;}
+.icon {max-width: 50px; padding:5px}
+.citations {display: flex; justify-content: space-between; margin: 10px; background-color: blanchedalmond; border: 1px solid black; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.navbut {color: white; background-color: #000000;}
+@media only screen and (max-width:819px) {.footerrow1 {flex-wrap: wrap;} .citations {flex-wrap: wrap;}}
