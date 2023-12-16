@@ -1,5 +1,5 @@
 nav a, h1, h2, h3, h4, p, ol, li {font-family: 'Nova Square', sans-serif;}
-h1 {color: white; margin: 10px;}
+h1 {color: white; margin: 10px;} 
 header {background-color: black; margin: 0px; max-width: 100%;}
 .banner, .banner2, .banner3, .banner4, .banner5 {max-width: 100%; border: 1px solid black;}
 .page1pic1 {max-width: 75%; margin: 10px auto; max-height: 50%;}
@@ -41,6 +41,10 @@ nav {background-color: black;}
 .bigrow1, .bigrow2, .campsites {display: flex; justify-content: space-evenly;}
 .littlepic1, .littlepic2, .littlepic3, .littlepic4 {max-width: 100%; margin: 10px auto;}
 .maptitle {text-align: center;}
+.number {width: 50%; margin: 0 auto; color: black; font-family: 'Nova Square', sans-serif;}
+
+
+
 
 
 
